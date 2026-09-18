@@ -1,6 +1,6 @@
 # Exercicio POO - Banda Escolar
 
-**Nome:** Murilo Dias Oliveira Neto
+**Nome:** Murilo Dias Oliveira Neto e Gabriel dos Santos Custódio
 
 ## Parte 2 - Perguntas de extracao
 
